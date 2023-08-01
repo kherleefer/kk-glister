@@ -1,0 +1,8 @@
+{
+  "name": "KkGlister",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "37f91a5a"
+}
